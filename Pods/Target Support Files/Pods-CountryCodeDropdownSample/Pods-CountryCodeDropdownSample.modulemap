@@ -1,0 +1,6 @@
+framework module Pods_CountryCodeDropdownSample {
+  umbrella header "Pods-CountryCodeDropdownSample-umbrella.h"
+
+  export *
+  module * { export * }
+}

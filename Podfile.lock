@@ -1,0 +1,20 @@
+PODS:
+  - FlagPhoneNumber (0.7.1):
+    - libPhoneNumber-iOS
+  - libPhoneNumber-iOS (0.9.13)
+
+DEPENDENCIES:
+  - FlagPhoneNumber
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FlagPhoneNumber
+    - libPhoneNumber-iOS
+
+SPEC CHECKSUMS:
+  FlagPhoneNumber: d1ca8296b3d7f29b505dc55bfd1608d411c9d636
+  libPhoneNumber-iOS: e444379ac18bbfbdefad571da735b2cd7e096caa
+
+PODFILE CHECKSUM: 0860a65b51167016d49ae466c5cd4d6185df42d6
+
+COCOAPODS: 1.5.0
